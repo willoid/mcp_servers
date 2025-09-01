@@ -1,0 +1,14 @@
+{
+  "name": "flutter-mcp-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for Flutter MCP app to handle CORS",
+  "main": "proxy-server.js",
+  "scripts": {
+    "start": "node proxy-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "axios": "^1.6.0"
+  }
+}
