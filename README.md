@@ -21,7 +21,7 @@ MCP Project is a Flutter-based Web application that provides a conversational AI
 
 *   **Language:** Dart
 *   **Framework:** Flutter
-*   **State Management:** (Specify if you used a particular library e.g., Provider, BLoC, Riverpod, or if it's vanilla setState)
+*   **State Management:** vanilla setState
 *   **Networking:** `http` / `web_socket_channel` (for communication with the proxy)
 *   **Asynchronous Programming:** Futures, async/await
 *   **UI Development:** Custom Widgets, Material Design
